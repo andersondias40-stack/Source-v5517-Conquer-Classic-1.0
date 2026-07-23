@@ -51,7 +51,7 @@ My channel/https://www.youtube.com/@BlackoutlFKZ
     Seu anti-virús pode acusar como um falso dispositivo colocando ele como uma ameaça e deleta-lo.
 
 
-- ** ( Você pode baixar a cliente + Website + Source v5517 Full link: https://www.mediafire.com/file/2zsaijciv0nyvou/Conquer_Classic.rar/file )
+- ** ( Download Full: ) client + Website + Source v5517 Full link: https://www.mediafire.com/file/2zsaijciv0nyvou/Conquer_Classic.rar/file
 
-- ** Você pode encontrar o projeto completo no forúm criando um conquer ( https://criandoumconquer.forumeiros.com/t762-conquer-source-v5517-client-website )
+- ** ( Forúm criando um conquer: ) ( https://criandoumconquer.forumeiros.com/t762-conquer-source-v5517-client-website
 
