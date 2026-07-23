@@ -13,7 +13,7 @@ Projeto Source Conquer v5517 reduzido para 5095 - Mantido nostálgico Classico 1
 AccServer/     - Servidor de autenticação (login, conexão com DB)
 GameServer/    - Toda lógica do jogo, eventos, controle de players
 Database/      - Arquivo .zq com estrutura MySQL para uso direto
-My channel/https://www.youtube.com/@BlackoutlFKZ
+My channel/ Youtube.com/@BlackoutlFKZ
 ```
 ## Como Ligar o servidor
 
@@ -52,3 +52,25 @@ My channel/https://www.youtube.com/@BlackoutlFKZ
 
 
 - ** ( Siga os passos corretos e não irá ter problema ao ligar o servidor, use o que se encontra na pastas )
+
+  ## Algumas coisas adicionadas: Update new version date 19.07.2026 01:36pm ##
+
+  - ** Adicionado Exp Mob ,  ativado por GM usando seus online points e respaw de 1 hora automático.
+  
+  - ** Contas level 1 não pode tomar PK mode em twincity ( Objetivo abrir socket sem perigo ).
+ 
+  - ** Removido drop Stone por drop nos mapas de item +1 com aviso, som e efeito.
+ 
+  - ** Adicionado NPCs que trocam itens como Egg e Diamond por prêmios aleatórios.
+ 
+  - ** Adicionado drop Egg e Diamond em todos mapas com chances média.
+ 
+  - ** Adicionado lógica para jogador VIP e não VIP, drops de itens chance diferente.
+ 
+  - **  No bless and No Nobillity.
+ 
+  - **  4 Class ( Trojan , Taoist, Archer, Warrior )
+ 
+  - **  Compose Plus +9.
+ 
+  - ** Adicionado Mineração VIPs e Não VIPs.
