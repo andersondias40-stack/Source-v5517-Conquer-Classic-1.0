@@ -1,0 +1,111 @@
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.exe.config
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.exe
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.pdb
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Renci.SshNet.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Renci.SshNet.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.Up2Date
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.exe
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.pdb
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\MySql.Data.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Buffers.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Memory.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\MySql.Data.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Buffers.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Memory.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows Pro\Desktop\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.exe.config
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.exe.config
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.exe
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\AccServer.pdb
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\MySql.Data.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Renci.SshNet.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Buffers.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Formats.Asn1.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.IO.Pipelines.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Memory.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\MySql.Data.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\Renci.SshNet.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Buffers.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Formats.Asn1.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.IO.Pipelines.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Memory.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.SuggestedBindingRedirects.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.exe.config
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.csproj.Up2Date
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.exe
+C:\Conquer_5517\Conquer-Online-Server-Source-master\AccServer\obj\Debug\AccServer.pdb
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\AccServer.exe.config
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\AccServer.exe
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\AccServer.pdb
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\MySql.Data.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\Renci.SshNet.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Buffers.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Memory.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Conquer_Classic\Source_5517\AccServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.csproj.AssemblyReference.cache
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.csproj.SuggestedBindingRedirects.cache
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.exe.config
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.csproj.CoreCompileInputs.cache
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.csproj.Up2Date
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.exe
+C:\Conquer_Classic\Source_5517\AccServer\obj\Debug\AccServer.pdb
