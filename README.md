@@ -13,7 +13,7 @@
 AccServer/     - Servidor de autenticação (login, conexão com DB)
 GameServer/    - Toda lógica do jogo, eventos, controle de players
 Database/      - Arquivo .zq com estrutura MySQL para uso direto
-My channel/https://www.youtube.com/@BlackoutlFKZ
+Channel/ Youtube.com/@BlackoutlFKZ
 ```
 ## Como Ligar o servidor
 
