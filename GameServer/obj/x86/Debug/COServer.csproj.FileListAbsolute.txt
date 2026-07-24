@@ -1,0 +1,102 @@
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.config
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.manifest
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.application
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.pdb
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.config
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Panels.AccountsForm.resources
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Controlpanel.resources
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.manifest
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.application
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.Up2Date
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe
+C:\MeuConquer\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.pdb
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.config
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.manifest
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.application
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.pdb
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Panels.AccountsForm.resources
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Controlpanel.resources
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.manifest
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.application
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.Up2Date
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe
+C:\Users\Windows Pro\Desktop\Nova pasta (2)\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.pdb
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.config
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.manifest
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.application
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.pdb
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Panels.AccountsForm.resources
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Controlpanel.resources
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.manifest
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.application
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.Up2Date
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe
+C:\Conquer5095\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.pdb
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.config
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe.manifest
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.application
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.exe
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\COServer.pdb
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Panels.AccountsForm.resources
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Controlpanel.resources
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.manifest
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.application
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.Up2Date
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.pdb
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.csproj.SuggestedBindingRedirects.cache
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\obj\x86\Debug\COServer.exe.config
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Google.Protobuf.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\MySql.Data.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\MySqlConnector.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\ZstdSharp.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\System.Memory.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Google.Protobuf.pdb
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Google.Protobuf.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\MySql.Data.xml
+C:\Conquer_5517\Conquer-Online-Server-Source-master\GameServer\bin\Debug\MySqlConnector.xml
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\COServer.exe.config
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\COServer.exe.manifest
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\COServer.application
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\COServer.exe
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\COServer.pdb
+C:\Conquer_Classic\Source_5517\GameServer\bin\Debug\MySql.Data.xml
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.Panels.AccountsForm.resources
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.Controlpanel.resources
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.exe.manifest
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.application
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.csproj.Up2Date
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.exe
+C:\Conquer_Classic\Source_5517\GameServer\obj\x86\Debug\COServer.pdb
